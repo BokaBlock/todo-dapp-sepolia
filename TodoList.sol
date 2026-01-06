@@ -41,5 +41,4 @@ contract TodoList {
     function getTasks() public view returns(Task[] memory) {
         return tasks;
     }
-
 }
