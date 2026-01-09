@@ -81,11 +81,6 @@ todo-dapp-sepolia/
 - **Etherscan:** [View Contract](https://sepolia.etherscan.io/address/0x6d731D7808A9D069622Bd937436386279FB3bdb0)
 - **Remix IDE:** [Test Contract](https://remix.ethereum.org)
 
-##  Screenshots
-
-![DApp Interface](screenshot-dapp.png)
-![Etherscan Verification](screenshot-etherscan.png)
-
 ##  License
 
 MIT License - feel free to use for learning!
